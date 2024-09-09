@@ -1,8 +1,10 @@
 # T3 Stack Boilerplate with shadcn UI
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/t3-shadcn-boilerplate.svg)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/t3-shadcn-boilerplate.svg)
+![GitHub license](https://img.shields.io/github/license/vichudo/t3-shadcn-boilerplate)
+![GitHub stars](https://img.shields.io/github/stars/vichudo/t3-shadcn-boilerplate)
+![GitHub forks](https://img.shields.io/github/forks/vichudo/t3-shadcn-boilerplate)
+![GitHub issues](https://img.shields.io/github/issues/vichudo/t3-shadcn-boilerplate)
+![GitHub last commit](https://img.shields.io/github/last-commit/vichudo/t3-shadcn-boilerplate)
 
 A modern, fully-featured boilerplate built with the T3 Stack and enhanced with shadcn UI components. Perfect for kickstarting your next web application with a powerful, type-safe foundation.
 
@@ -39,7 +41,7 @@ Get up and running with these simple steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/t3-shadcn-boilerplate.git
+git clone https://github.com/vichudo/t3-shadcn-boilerplate.git
 cd t3-shadcn-boilerplate
 
 # Install dependencies
@@ -161,6 +163,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Built with ❤️ using the [T3 Stack](https://create.t3.gg/) and [shadcn UI](https://ui.shadcn.com/). If you find this boilerplate helpful, please consider giving it a star ⭐️!
 
-For any questions or feedback, please open an issue or reach out to [your contact information].
+For any questions or feedback, please [open an issue](https://github.com/vichudo/t3-shadcn-boilerplate/issues) on GitHub.
 
 Happy coding! 🎉
