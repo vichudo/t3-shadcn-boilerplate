@@ -58,6 +58,14 @@ yarn db:push
 yarn dev
 ```
 
+As boilerplate:
+```bash
+yarn global add degit
+degit vichudo/t3-shadcn-boilerplate <new-project-name>
+cd <new-project-name>
+yarn install
+```
+
 After running these commands, open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ### 📝 Notes:
